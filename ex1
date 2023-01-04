@@ -1,0 +1,35 @@
+ex1
+var myArray=["dog","cat","fox","monkey"]
+ex2
+myArray[1]
+ex3
+var hiArray=[1, 2, 3, 4 ,5, 6, 7,"The" ,"quick" ,"brown", "fox", "jumped", "over" ,"the" ,"lazy", "dog",true, false, true]
+ex4
+function emptyArray(){
+    var arr=[]
+        return arr
+}
+ex5
+function numbersArray(){
+    var arr=[]
+    for(i=1;i<=5;i++){
+        arr.push(i)
+    }return arr 
+}
+ex6
+function booleansArray() {
+    return [true, true, true]
+ } 
+ ex7
+ function stringsArray() {
+    var i=["Mohamed", "Khalaf"]
+      return i
+  }  
+  ex8
+  function arrayLength(array) {
+    return array.length
+  }  
+
+  
+
+  
